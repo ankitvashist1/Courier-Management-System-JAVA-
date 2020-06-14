@@ -1,6 +1,6 @@
 # Courier Management System
 
-#### In the past 15-20 years, there has been a drastic upsurge in the digital lifestyle. People like to save their time using online portal instead of standing in long queues to get their things done. Here in our Courier Management System, we would like to give users some accesses where he can request to send mail or goods using courier. As a human tendency to always keep an eye on things, he will also have a tracking id which will enable him to track his post at any point of time. Administrators will have some advance database access like the capability to INSERT, UPDATE and DELETE the invoice, shipping details, cost, etc. Along with this, they will be able to Add, Delete and Update the delivery status. 
+In the past 15-20 years, there has been a drastic upsurge in the digital lifestyle. People like to save their time using online portal instead of standing in long queues to get their things done. Here in our Courier Management System, we would like to give users some accesses where he can request to send mail or goods using courier. As a human tendency to always keep an eye on things, he will also have a tracking id which will enable him to track his post at any point of time. Administrators will have some advance database access like the capability to INSERT, UPDATE and DELETE the invoice, shipping details, cost, etc. Along with this, they will be able to Add, Delete and Update the delivery status. 
 
 ## Administrator
 1. Screen to login to the Courier Management System
