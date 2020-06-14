@@ -28,6 +28,6 @@ track order using id, update profile, and can also see the tracking history.
 6) There will be one more functionality which involves the invoice and package class for
 placed order, shipment, payment etc.
 
-##UML Diagram
+## UML Diagram
 
 ![ss](https://user-images.githubusercontent.com/57380604/84603205-23d60000-ae52-11ea-8153-a472b80c8cf1.png)
